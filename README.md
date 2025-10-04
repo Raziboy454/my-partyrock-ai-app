@@ -41,5 +41,3 @@ It is designed to help Nigerian students and graduates easily **find, filter, an
 4. Users can explore opportunities and plan applications.  
 
 ---
-
-## Repository Structure
