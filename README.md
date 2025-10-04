@@ -11,10 +11,10 @@ It is designed to help Nigerian students and graduates easily **find, filter, an
 ---
 
 ##  Features
-- 🔎 **Smart Matching** — AI recommends internships based on your skills and preferences.  
-- 🗂️ **Filtering & Search** — Narrow results by industry, role, location, or remote/on-site.  
-- 📑 **Internship Insights** — Get extra details like competitiveness and deadlines.  
-- 🎯 **Personalized Feed** — Recommendations improve the more you use it.
+-  **Smart Matching** — AI recommends internships based on your skills and preferences.  
+-  **Filtering & Search** — Narrow results by industry, role, location, or remote/on-site.  
+-  **Internship Insights** — Get extra details like competitiveness and deadlines.  
+-  **Personalized Feed** — Recommendations improve the more you use it.
 
 ---
 
@@ -24,13 +24,13 @@ It is designed to help Nigerian students and graduates easily **find, filter, an
 ![Home](assets/home.png)
 
 ### Search Filters
+![Info](assets/info.png)
+
+### Internship Search
 ![Search](assets/search.png)
 
 ### Internship Results
 ![Results](assets/results.png)
-
-### Internship Details
-![Details](assets/details.png)
 
 ---
 
@@ -42,4 +42,4 @@ It is designed to help Nigerian students and graduates easily **find, filter, an
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
