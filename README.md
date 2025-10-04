@@ -21,7 +21,7 @@ It is designed to help Nigerian students and graduates easily **find, filter, an
 ## Screenshots
 
 ### App Home
-![Home](home.png,png)
+![Home](home.png.png)
 
 ### Search Filters
 ![Info](info.png.png)
