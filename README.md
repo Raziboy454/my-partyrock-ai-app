@@ -21,16 +21,16 @@ It is designed to help Nigerian students and graduates easily **find, filter, an
 ## Screenshots
 
 ### App Home
-![Home](assets/home.png,png)
+![Home](home.png,png)
 
 ### Search Filters
-![Info](assets/info.png.png)
+![Info](info.png.png)
 
 ### Internship Search
-![Search](assets/search.png.png)
+![Search](/search.png.png)
 
 ### Internship Results
-![Results](assets/results.png.png)
+![Results](results.png.png)
 
 ---
 
